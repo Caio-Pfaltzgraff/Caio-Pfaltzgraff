@@ -5,8 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiopfaltzgraff/)
 
 ![Caio-Pfaltzgraff GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Pfaltzgraff&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Pfaltzgraff)](https://github.com/Caio-Pfaltzgraff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Pfaltzgraff&theme=dark)](https://github.com/Caio-Pfaltzgraff/github-readme-stats)
 
 ## Tecnologias
 
