@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/Caio-Pfaltzgraff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Pfaltzgraff&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Pfaltzgraff&theme=dark&layout=compact&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Pfaltzgraff&show_icons=true&theme=dark&count_private=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Pfaltzgraff&theme=dark&layout=compact&langs_count=16&cache_seconds=3600"/>
 </div>
 
 ## Tecnologias
